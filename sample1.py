@@ -23,10 +23,10 @@ Sample File
 #     return quotient
 
 
-# def multiplication(a, b):
+ def multiplication(a, b):
 
-#     product = a * b
+     product = a * b
 
-#     return product
+     return product
 
      # oh
