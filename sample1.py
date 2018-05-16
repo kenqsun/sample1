@@ -16,7 +16,7 @@ Sample File
 #     return difference
 
 
- def division(a, b):
+ def division_diff(a, b):
 
      quotient = a / b
 
