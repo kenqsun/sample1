@@ -1,12 +1,12 @@
 Sample File
 
-This is the first comment tried on Git
+# This is the first comment tried on Git
 
-# def addition(a, b):
+ def addition(a, b):
 
-#     summation = a + b
+     summation = a + b
 
-#     return summation
+     return summation
 
 
 # def subtraction(a, b):
