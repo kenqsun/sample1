@@ -16,7 +16,7 @@ Sample File
 #     return difference
 
 
- def division_org(a, b):
+ def division(a, b):
 
      quotient = a / b
 
